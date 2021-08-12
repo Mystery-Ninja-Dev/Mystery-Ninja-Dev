@@ -10,7 +10,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystery-ninja-dev&layout=compact&langs_count=7&theme=merko"/> 
 </div>
   
- ##  <img align="right" heigth="50" width="120" alt="Ninin" src="https://i.pinimg.com/originals/0b/61/cd/0b61cd25c3f48f34b85dec0fd383e7e9.gif">
+ ##  <img align="right" heigth="50" width="200" alt="Ninin" src="https://cdn.discordapp.com/attachments/334391761554112512/875439947035856936/Jo_Programing.png">
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Ninja-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
