@@ -20,4 +20,4 @@
   
   <img align="center" alt="Ninja-Java" height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
  </div>
- ![Snake animation](https://https://github.com/Mystery-Ninja-Dev/Mystery-Ninja-Dev/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://https://github.com/mystery-ninja-dev/mystery-ninja-dev/blob/output/github-contribution-grid-snake.svg)
