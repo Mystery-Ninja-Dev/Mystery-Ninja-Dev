@@ -10,7 +10,7 @@
   <img  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystery-ninja-dev&layout=compact&langs_count=7&theme=merko"/> 
   <img  width="400" src="https://github-readme-stats.vercel.app/api?username=mystery-ninja-dev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
-  <img align="right" heigth="50" width="200" alt="Ninin" src="https://cdn.discordapp.com/attachments/334391761554112512/880520105707053126/image.psd_4.png">
+  <img align="right" heigth="100" width="150" alt="Ninin" src="https://cdn.discordapp.com/attachments/334391761554112512/880520105707053126/image.psd_4.png">
  <div> 
 
   
